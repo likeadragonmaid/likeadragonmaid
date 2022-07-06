@@ -5,6 +5,8 @@ I'm [Shouko](https://whatis.techtarget.com/definition/screen-name), a passionate
 - 🔭 I’m currently porting Linux based operating systems to a few android devices.
 - 🌱 I’m currently learning Python and Qml.
 - 👯 I’m looking to collaborate on my OS porting projects.
-- 📫 How to reach me: Email me at mail [at Sign] xn--n8ja0d4b0j7a [dot] xn--q9jyb4c and request telegram username.
+- 📫 How to reach me: Email me at
+<b> mail [at Sign] xn--n8ja0d4b0j7a [dot] xn--q9jyb4c </b>
+and request telegram username. (No, that E-Mail address is not gibberish.)
 
 <img src="https://github.com/gibcheesepuffs/gibcheesepuffs/blob/master/images/cat.gif?raw=true"/>
