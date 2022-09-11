@@ -1,12 +1,10 @@
 ### Hi there 👋
 
-I'm [Shouko](https://whatis.techtarget.com/definition/screen-name), a passionate engineer and a [hacker](https://en.wikipedia.org/wiki/Hacker_culture). I love learning, creating and researching. I stand for decentralization, privacy, security and free software. For my OS porting projects, refer to my github organizations.
+いらっしゃいみんな! I am [Shouko](https://linktr.ee/shoukolate), a power user interested in computing, free speech, anime, and a lot more. I am a strong proponent of free software and like the ideas of cypherpunk. I have written software for various platforms including Android, SailfishOS and Ubuntu Touch.
 
 - 🔭 I’m currently porting Linux based operating systems to a few android devices.
-- 🌱 I’m currently learning Python and Qml.
-- 👯 I’m looking to collaborate on my OS porting projects.
-- 📫 How to reach me: Email me at
-<b> mail [at Sign] xn--n8ja0d4b0j7a [dot] xn--q9jyb4c </b>
-and request telegram username. (No, that E-Mail address is not gibberish.)
+- 🌱 I’m constantly improving my InfoSec, DevOps and self hosting skills.
+- 👯 I’m learning Japanese! おはよ～
+- 📫 How to reach me: Send a [Quick Message](https://xn--n8ja0d4b0j7a.xn--q9jyb4c/message.html) or an [Email](https://xn--n8ja0d4b0j7a.xn--q9jyb4c/mailtolink.html).</b>
 
 <img src="https://github.com/gibcheesepuffs/gibcheesepuffs/blob/master/images/cat.gif?raw=true"/>
